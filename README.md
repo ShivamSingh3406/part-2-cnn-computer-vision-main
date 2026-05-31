@@ -25,6 +25,10 @@ The model achieves **91.67% test accuracy** and **0.95 macro F1-score** on a bal
 
 ---
 
+> ⚠️ **Note:** This model is trained on **synthetic images only** — simple geometric defects on uniform grey backgrounds. It is designed as a **proof-of-concept** for CNN-based defect classification pipelines. Production deployment would require retraining on real industrial imagery captured under actual manufacturing conditions.
+
+---
+
 ## 🎯 Problem Statement
 
 Given product surface images from a manufacturing line, classify each image into one of four categories:
