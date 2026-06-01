@@ -13,6 +13,10 @@
   <a href="https://huggingface.co/spaces/ShivamSinghai/Manufacturing-Defect-Detector" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20the%20App-FF4B4B?style=for-the-badge"/>
   </a>
+  &nbsp;
+  <a href="https://colab.research.google.com/github/ShivamSingh3406/part-2-cnn-computer-vision-main/blob/main/CNN_Defect_Detection_Clean.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="height:28px"/>
+  </a>
 </p>
 
 ---
